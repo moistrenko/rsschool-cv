@@ -1,1 +1,1 @@
-* **CV-** [Anatoly Moistrenko](https://moistrenko.github.io/rsschool-cv/cv)
+* **CV-** [Anatoly Moistrenko](https://moistrenko.github.io/rsschool-cv/)
